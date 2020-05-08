@@ -4,7 +4,6 @@
   "env": {
     "PERSISTENCE_DIR": "/tmp/persistence"
   },
-  "type": "npm",
   "engines": {
     "node": "8.x"
   }
