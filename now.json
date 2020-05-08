@@ -3,8 +3,5 @@
   "name": "shields",
   "env": {
     "PERSISTENCE_DIR": "/tmp/persistence"
-  },
-  "engines": {
-    "node": "8.x"
   }
 }
